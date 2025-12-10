@@ -3,22 +3,23 @@
     <head>
         <link rel="stylesheet" href="style.css" />
     </head>
-    <br>
-    <br>
-    <br>
+    <a href="index.html">
+        <h5>Home</h5>
+    </a>
+    <h3>.・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。.</h3>
     <br>
     <br>
     <h2> ⋆˙⟡You can be anything⋆˙⟡</h2>
     <body>
         <a href="index2.html">
             <img
-            src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/render/132.png"
+            src="https://i.pinimg.com/originals/53/59/ec/5359eca97b4e96bd90d1f1d40e02a3cb.gif"
         /></a>
         <br>
         <br>
         <p>✩♬ ₊˚.🎧⋆☾⋆⁺₊✧✩♬ ₊˚.🎧⋆☾⋆⁺₊✧✩♬ ₊˚.🎧⋆☾⋆⁺₊✧</p>
-        <br>
-        <h4>Heyo! As you can probably tell, I like ditto :V</h4>
-        <p>
-    </body>    
+        <h4>Click on the big ditto to learn about me₍ᐢ.  ̫.ᐢ₎</h4>
+        <p><em><b>or</em></b></p>
+        <h4>Scroll down and click on the images for a surprise!</h4>
+    </body>
 </html>
