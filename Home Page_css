@@ -1,6 +1,7 @@
 img {
-    width: 200px;;
+    width: 150px;;
     height: auto;
+    margin: 50px;
 }
 h2 {
     color: darkmagenta
@@ -12,6 +13,8 @@ h3 {
     color:aliceblue
 }
 h5 {
+    display: inline-block;
+    margin: 20px;
     text-align: left;
     color: darkmagenta;
 }
