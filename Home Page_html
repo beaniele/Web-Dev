@@ -6,6 +6,9 @@
     <a href="index.html">
         <h5>Home</h5>
     </a>
+    <a href="index2.html">
+        <h5>About Me</h5>
+    </a>
     <h3>.・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。.</h3>
     <br>
     <br>
@@ -13,13 +16,32 @@
     <body>
         <a href="index2.html">
             <img
-            src="https://i.pinimg.com/originals/53/59/ec/5359eca97b4e96bd90d1f1d40e02a3cb.gif"
+            src="https://media.tenor.com/pJ4Ufj_JlngAAAAj/dance-moves.gif"
         /></a>
         <br>
         <br>
         <p>✩♬ ₊˚.🎧⋆☾⋆⁺₊✧✩♬ ₊˚.🎧⋆☾⋆⁺₊✧✩♬ ₊˚.🎧⋆☾⋆⁺₊✧</p>
-        <h4>Click on the big ditto to learn about me₍ᐢ.  ̫.ᐢ₎</h4>
+        <h4>Click on the this ditto to learn about me₍ᐢ.  ̫.ᐢ₎</h4>
         <p><em><b>or</em></b></p>
-        <h4>Scroll down and click on the images for a surprise!</h4>
+        <h4>Scroll down and click on one of the other dittos to see where it takes you!</h4>
+        <br>
+        <img
+            src="https://img1.picmix.com/output/stamp/normal/1/1/7/3/1753711_6346a.gif";
+        /><img
+            src="https://img1.picmix.com/output/stamp/normal/1/1/7/3/1753711_6346a.gif"
+          />
+        <img
+            src="https://img1.picmix.com/output/stamp/normal/1/1/7/3/1753711_6346a.gif"
+        />
+        <br>
+        <img
+            src="https://img1.picmix.com/output/stamp/normal/1/1/7/3/1753711_6346a.gif"
+        />
+        <img
+            src="https://img1.picmix.com/output/stamp/normal/1/1/7/3/1753711_6346a.gif"
+        />
+        <img
+            src="https://img1.picmix.com/output/stamp/normal/1/1/7/3/1753711_6346a.gif"
+        />
     </body>
 </html>
