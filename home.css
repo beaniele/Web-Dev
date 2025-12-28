@@ -1,0 +1,50 @@
+body{
+    margin: 2px;
+    background-color: rgb(218, 238, 255);
+    font-family: 'Trebuchet MS';
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-align: center;
+    color:rgba(71, 138, 255, 0.89);
+    border: 3px dotted aliceblue;
+}
+main img{
+    width: 250px;
+    border: 6px dotted aliceblue;
+    padding: 5px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+h2{
+    text-align: center;
+    text-decoration: dotted underline;
+    color: rgb(255, 255, 255);
+}
+h3{
+    text-decoration: dotted underline;
+    color: rgb(53, 123, 243);
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgba(71, 138, 255, 0.525);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: grid;
+    text-align: center;
+    overflow: hidden;
+}
+.navbar a:hover{
+    background-color: rgba(71, 138, 255, 0.671);
+}
+.navbar li{
+    float: left;
+}
